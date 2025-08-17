@@ -41,7 +41,8 @@
 <body>
 
 <!-- Logo -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=skyblue&text=hello%20everyone%20my%20name%20is%20ohad&section=header&fontSize=50&textBg=false&descSize=1" alt="Ohad Logo" class="logo">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20everyone,%0AI%20am%20Ohad&section=footer&reversal=false
+" class="logo">
 
 <!-- Quick Overview -->
 <h2>🚀 Quick Overview</h2>
