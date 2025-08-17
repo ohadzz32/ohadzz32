@@ -3,11 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <title>Ohad's README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        img.logo {
+            display: block;
+            max-width: 400px;
+            height: auto;
+            margin: 0 auto 20px auto;
+        }
+        h2 {
+            margin-top: 30px;
+            color: #333;
+        }
+        h3 {
+            margin-top: 20px;
+            color: #555;
+        }
+        p, li {
+            margin: 8px 0;
+        }
+        blockquote {
+            margin: 10px 0 10px 20px;
+            padding-left: 15px;
+            border-left: 3px solid #ccc;
+            color: #555;
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
 
 <!-- Logo -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=450&color=gradient&text=hello%20everyone%20my%20name%20is%20ohad&section=header&fontSize=-1&textBg=false&descSize=1" alt="Ohad Logo" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=hello%20everyone%20my%20name%20is%20ohad&section=header&fontSize=-1&textBg=false&descSize=1" alt="Ohad Logo" class="logo">
 
 <!-- Quick Overview -->
 <h2>🚀 Quick Overview</h2>
@@ -34,6 +67,61 @@
 
 <h3>🛠️ DevOps & Tools</h3>
 <p>Docker, Git, GitHub Actions, Make</p>
+
+<!-- Development Philosophy & Principles -->
+<h2>💡 Development Philosophy & Principles</h2>
+<blockquote>
+"The best programs are written not by typing more code but by typing the right code." - Clean Code
+</blockquote>
+
+<h3>🏗️ Architecture & Design Principles</h3>
+<ul>
+    <li><strong>SOLID Principles:</strong> Foundation for maintainable and scalable code</li>
+    <li><strong>Clean Architecture:</strong> Separating concerns and dependencies</li>
+    <li><strong>Design Patterns:</strong> Solving recurring problems with proven solutions</li>
+    <li><strong>Test-Driven Development:</strong> Quality through comprehensive testing</li>
+    <li><strong>Microservices:</strong> Building resilient, scalable distributed systems</li>
+    <li><strong>API-First Design:</strong> Creating robust, documented interfaces</li>
+</ul>
+
+<h3>🔄 Development Practices</h3>
+<ul>
+    <li>Agile methodologies and continuous integration</li>
+    <li>Code reviews and pair programming</li>
+    <li>Documentation-driven development</li>
+    <li>Performance optimization and monitoring</li>
+    <li>Security-first implementation</li>
+    <li>Accessibility and inclusive design</li>
+</ul>
+
+<!-- GitHub Analytics -->
+<h2>📊 GitHub Analytics</h2>
+<p><strong>GitHub Streak:</strong> [Add your streak]</p>
+<p><strong>Contribution Activity:</strong></p>
+<p>[Activity Graph Placeholder]</p>
+
+<!-- Achievements & Recognition -->
+<h2>🏆 Achievements & Recognition</h2>
+<p>[Trophies Placeholder]</p>
+
+<!-- Featured Projects -->
+<h2>📂 Featured Projects</h2>
+<ul>
+    <li>Project 1 - Description</li>
+    <li>Project 2 - Description</li>
+    <li>Project 3 - Description</li>
+</ul>
+
+<!-- Let's Connect & Collaborate -->
+<h2>💬 Let's Connect & Collaborate</h2>
+<p>Open to collaborating on backend projects, tech architecture, and innovative solutions.</p>
+<p>Also interested in knowledge sharing, mentoring, and exploring new technologies.</p>
+
+<!-- Daily Inspiration -->
+<h2>💭 Daily Inspiration</h2>
+<blockquote>
+"The best way to predict the future is to create it." - Peter Drucker
+</blockquote>
 
 </body>
 </html>
