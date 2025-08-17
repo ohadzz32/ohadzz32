@@ -5,16 +5,16 @@
     <title>Ohad's README</title>
     <style>
         body {
-    font-family: Arial, sans-serif;
-    line-height: 1.8; /* יותר מרווח בין השורות */
-    font-size: 18px;  /* טקסט יותר קריא */
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-}
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            font-size: 18px;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         img.logo {
             display: block;
-            max-width: 400px;
+            max-width: 450px;
             height: auto;
             margin: 0 auto 20px auto;
         }
@@ -41,8 +41,7 @@
 <body>
 
 <!-- Logo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20everyone,%20am%20Ohad&section=footer&reversal=false
-" class="logo">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20everyone,%0AI%20am%20Ohad&section=footer&reversal=false" alt="Ohad Logo" class="logo">
 
 <!-- Quick Overview -->
 <h2>🚀 Quick Overview</h2>
@@ -127,4 +126,3 @@
 
 </body>
 </html>
-
