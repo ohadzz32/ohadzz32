@@ -31,9 +31,9 @@
   <!-- HTML Icon -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width:40px; height:40px;" />
   
-  <!-- SASS Icon -->
-  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" style="width:40px; height:40px;" />
-  
+<!-- CSS Icon -->
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:40px; height:40px;" />
+
   <!-- JS Icon -->
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:40px; height:40px;" />
   
