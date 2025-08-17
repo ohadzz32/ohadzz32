@@ -19,34 +19,57 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" style="vertical-align: middle; margin-right: 8px;" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" style="vertical-align: middle; margin-right: 8px;" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="vertical-align: middle; margin-right: 8px;" />
-  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="vertical-align: middle; margin-right: 8px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="vertical-align: middle; margin-right: 8px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="vertical-align: middle; margin-right: 8px;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align: middle; margin-right: 8px;" />
 </p>
 
 
-
-
 <h3>🎨 Frontend Mastery</h3>
-<p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,react,angular,flutter,bootstrap" alt="Frontend" style="vertical-align: middle; margin-right: 8px;" />
+<p style="margin: 5px 0 20px 0; display: flex; align-items: center; gap: 12px;">
+  <!-- HTML Icon -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width:40px; height:40px;" />
+  
+  <!-- SASS Icon -->
+  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" style="width:40px; height:40px;" />
+  
+  <!-- JS Icon -->
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:40px; height:40px;" />
+  
+  <!-- React Icon -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React" style="width:40px; height:40px;" />
 </p>
+
+
+
+
+
 
 <h3>⚙️ Backend & Server Technologies</h3>
-<p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" alt="Backend" style="vertical-align: middle; margin-right: 8px;" />
+<p style="margin: 5px 0 20px 0; display: flex; align-items: center; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" style="width:40px; height:40px;" />
 </p>
+
 
 <h3>🗄️ Database Technologies</h3>
-<p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" style="vertical-align: middle; margin-right: 8px;" />
+<p style="margin: 5px 0 20px 0; display: flex; align-items: center; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width:40px; height:40px;" />
 </p>
 
+
 <h3>🛠️ DevOps & Tools</h3>
-<p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,make" alt="DevOps" style="vertical-align: middle; margin-right: 8px;" />
+<p style="margin: 5px 0 20px 0; display: flex; align-items: center; gap: 8px;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width:40px; height:40px;" />
 </p>
+
 
 <!-- Development Philosophy & Principles -->
 <h2>💡 Development Philosophy & Principles</h2>
