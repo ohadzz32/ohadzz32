@@ -1,73 +1,52 @@
-<!DOCTYPE html>
-<html lang="he">
-<head>
-    <meta charset="UTF-8">
-    <title>Ohad's README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.8;
-            font-size: 18px;
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        img.logo {
-            display: block;
-            max-width: 450px;
-            height: auto;
-            margin: 0 auto 20px auto;
-        }
-        h2 {
-            margin-top: 30px;
-            color: #333;
-        }
-        h3 {
-            margin-top: 20px;
-            color: #555;
-        }
-        p, li {
-            margin: 8px 0;
-        }
-        blockquote {
-            margin: 10px 0 10px 20px;
-            padding-left: 15px;
-            border-left: 3px solid #ccc;
-            color: #555;
-            font-style: italic;
-        }
-    </style>
-</head>
-<body>
+<body style="font-family: Arial, sans-serif; line-height: 1.8; font-size: 17px; max-width: 900px; margin: 0 auto; padding: 20px;">
 
 <!-- Logo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20everyone,%0AI%20am%20Ohad&section=footer&reversal=false" alt="Ohad Logo" class="logo">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello%20everyone,%0AI%20am%20Ohad&section=footer&reversal=false&fontSize=30&textBg=false&descSize=1" alt="Ohad Logo" style="display:block; max-width:450px; height:auto; margin: 0 auto 20px auto;">
 
 <!-- Quick Overview -->
 <h2>🚀 Quick Overview</h2>
-<p><strong>Role:</strong> Full-Stack Software Developer</p>
-<p><strong>Specialization:</strong> Web Applications, Mobile Apps, Enterprise Solutions</p>
+<p><strong>Role:</strong> Backend Developer & Problem Solver</p>
+<p><strong>Specialization:</strong> Backend Development for Systems, Web Development, and Mobile Applications</p>
 <p><strong>Current Focus:</strong> Building scalable architectures with modern tech stacks</p>
-<p><strong>Philosophy:</strong> "Your sentence here in English"</p>
-<p><strong>Mission:</strong> "Your mission statement here"</p>
+<p><strong>Philosophy:</strong> "Simplicity is the ultimate sophistication."</p>
+<p><strong>Mission:</strong> "To become a top-tier developer, solve complex technical challenges, and create innovative solutions."</p>
 
 <!-- Technology Arsenal -->
 <h2>🛠️ Technology Arsenal</h2>
 
 <h3>💻 Core Languages</h3>
-<p>Java, Python, JavaScript, TypeScript, Go, C, C#, Dart</p>
+<p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align: middle; margin-right: 8px;" />
+</p>
+
+
+
 
 <h3>🎨 Frontend Mastery</h3>
-<p>HTML5, CSS3, SCSS, React, Angular, Flutter, Bootstrap</p>
+<p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,react,angular,flutter,bootstrap" alt="Frontend" style="vertical-align: middle; margin-right: 8px;" />
+</p>
 
 <h3>⚙️ Backend & Server Technologies</h3>
-<p>Spring Boot, Node.js, NestJS</p>
+<p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" alt="Backend" style="vertical-align: middle; margin-right: 8px;" />
+</p>
 
 <h3>🗄️ Database Technologies</h3>
-<p>MySQL, PostgreSQL, MongoDB, Firebase</p>
+<p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" style="vertical-align: middle; margin-right: 8px;" />
+</p>
 
 <h3>🛠️ DevOps & Tools</h3>
-<p>Docker, Git, GitHub Actions, Make</p>
+<p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,make" alt="DevOps" style="vertical-align: middle; margin-right: 8px;" />
+</p>
 
 <!-- Development Philosophy & Principles -->
 <h2>💡 Development Philosophy & Principles</h2>
@@ -77,41 +56,41 @@
 
 <h3>🏗️ Architecture & Design Principles</h3>
 <ul>
-    <li><strong>SOLID Principles:</strong> Foundation for maintainable and scalable code</li>
-    <li><strong>Clean Architecture:</strong> Separating concerns and dependencies</li>
-    <li><strong>Design Patterns:</strong> Solving recurring problems with proven solutions</li>
-    <li><strong>Test-Driven Development:</strong> Quality through comprehensive testing</li>
-    <li><strong>Microservices:</strong> Building resilient, scalable distributed systems</li>
-    <li><strong>API-First Design:</strong> Creating robust, documented interfaces</li>
+  <li><strong>SOLID Principles:</strong> Foundation for maintainable and scalable code</li>
+  <li><strong>Clean Architecture:</strong> Separating concerns and dependencies</li>
+  <li><strong>Design Patterns:</strong> Solving recurring problems with proven solutions</li>
+  <li><strong>Test-Driven Development:</strong> Quality through comprehensive testing</li>
+  <li><strong>API-First Design:</strong> Creating robust, documented interfaces</li>
 </ul>
 
 <h3>🔄 Development Practices</h3>
 <ul>
-    <li>Agile methodologies and continuous integration</li>
-    <li>Code reviews and pair programming</li>
-    <li>Documentation-driven development</li>
-    <li>Performance optimization and monitoring</li>
-    <li>Security-first implementation</li>
-    <li>Accessibility and inclusive design</li>
+  <li>Agile methodologies and continuous integration</li>
+  <li>Code reviews and pair programming</li>
+  <li>Documentation-driven development</li>
+  <li>Performance optimization and monitoring</li>
+  <li>Security-first implementation</li>
+  <li>Accessibility and inclusive design</li>
 </ul>
-
-<!-- GitHub Analytics -->
-<h2>📊 GitHub Analytics</h2>
-<p><strong>GitHub Streak:</strong> [Add your streak]</p>
-<p><strong>Contribution Activity:</strong></p>
-<p>[Activity Graph Placeholder]</p>
-
-<!-- Achievements & Recognition -->
-<h2>🏆 Achievements & Recognition</h2>
-<p>[Trophies Placeholder]</p>
 
 <!-- Featured Projects -->
 <h2>📂 Featured Projects</h2>
 <ul>
-    <li>Project 1 - Description</li>
-    <li>Project 2 - Description</li>
-    <li>Project 3 - Description</li>
+  <li>
+    <strong>ChatApp</strong> – A real-time messaging application built with Java and MongoDB, allowing users to send messages, create groups, and add friends.
+  </li>
+  <li>
+    <strong>Dashboard</strong> – A dynamic dashboard for real-time data display, charts, and analytics, aimed at monitoring activities and business insights.
+  </li>
+  <li>
+    <strong>ToDoList</strong> – A personal and collaborative task management system with filtering, reminders, and priority levels, designed to boost productivity.
+  </li>
 </ul>
+
+<!-- GitHub Analytics -->
+<h2>📊 GitHub Analytics</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohadzz32&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
+
 
 <!-- Let's Connect & Collaborate -->
 <h2>💬 Let's Connect & Collaborate</h2>
@@ -125,4 +104,4 @@
 </blockquote>
 
 </body>
-</html>
+
