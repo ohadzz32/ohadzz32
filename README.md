@@ -1,58 +1,40 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&text=my%20name%20is%20ohad&section=header&fontSize=0">
-</p>
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <title>Ohad's README</title>
+</head>
+<body>
 
+<!-- Logo -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=450&color=gradient&text=hello%20everyone%20my%20name%20is%20ohad&section=header&fontSize=-1&textBg=false&descSize=1" alt="Ohad Logo" style="max-width:100%; height:auto; display:block; margin:0 auto;">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<!-- Quick Overview -->
+<h2>🚀 Quick Overview</h2>
+<p><strong>Role:</strong> Full-Stack Software Developer</p>
+<p><strong>Specialization:</strong> Web Applications, Mobile Apps, Enterprise Solutions</p>
+<p><strong>Current Focus:</strong> Building scalable architectures with modern tech stacks</p>
+<p><strong>Philosophy:</strong> "Your sentence here in English"</p>
+<p><strong>Mission:</strong> "Your mission statement here"</p>
 
-Hello everyone 👋
+<!-- Technology Arsenal -->
+<h2>🛠️ Technology Arsenal</h2>
 
-🚀 Quick Overview
+<h3>💻 Core Languages</h3>
+<p>Java, Python, JavaScript, TypeScript, Go, C, C#, Dart</p>
 
-role: Full-Stack Software Developerspecialization: [Web Applications, Mobile Apps, Enterprise Solutions]current_focus: Building scalable architectures with modern tech stacksphilosophy: "Striving for excellence through clean and thoughtful code."mission: "Turning complex ideas into powerful backend systems."
+<h3>🎨 Frontend Mastery</h3>
+<p>HTML5, CSS3, SCSS, React, Angular, Flutter, Bootstrap</p>
 
-🛠️ Technology Arsenal
+<h3>⚙️ Backend & Server Technologies</h3>
+<p>Spring Boot, Node.js, NestJS</p>
 
-🎨 Frontend Mastery
+<h3>🗄️ Database Technologies</h3>
+<p>MySQL, PostgreSQL, MongoDB, Firebase</p>
 
-⚙️ Backend & Server Technologies
+<h3>🛠️ DevOps & Tools</h3>
+<p>Docker, Git, GitHub Actions, Make</p>
 
-🗄️ Database Technologies
+</body>
+</html>
 
-🛠️ DevOps & Tools
-
-💡 Development Philosophy & Principles
-
-"The best programs are written not by typing more code but by typing the right code." - Clean Code
-
-🏗️ Architecture & Design Principles:
-
-SOLID Principles: Foundation for maintainable and scalable code
-
-Clean Architecture: Separating concerns and dependencies
-
-Design Patterns: Solving recurring problems with proven solutions
-
-Test-Driven Development: Quality through comprehensive testing
-
-Microservices: Building resilient, scalable distributed systems
-
-API-First Design: Creating robust, documented interfaces
-
-🔄 Development Practices:
-
-Agile methodologies and continuous integration
-
-Code reviews and pair programming
-
-Documentation-driven development
-
-Performance optimization and monitoring
-
-Security-first implementation
-
-Accessibility and inclusive design
